@@ -15,17 +15,17 @@ const Portfolio = () => {
       title: 'BookInk',
       img: IMG1,
       description:
-        'BookStore app that allows users to store books and update progress',
+        'Aplicação desenvolvida para conectar tatuadores e clientes.',
       technologies: 'Typescript',
       link: 'https://capstone-book-ink-ruddy.vercel.app/',
       github: 'https://github.com/btrzdev/capstone-book-ink',
     },
     {
       id: 2,
-      title: 'ReadingHabits',
+      title: 'Reading Habits',
       img: IMG2,
       description:
-        'FakeStore app that provides information about available products and their details',
+        'Aplicação com intuito de ser utizada como uma ferramente para criar o hábito de leitura e recomendar livros',
       technologies: 'React',
       link: 'https://habits-jpedrofp.vercel.app/',
       github: 'https://github.com/joao-pillon/habits',
@@ -34,7 +34,7 @@ const Portfolio = () => {
       id: 3,
       title: 'S3lecto',
       img: IMG3,
-      description: 'Aplicativo para uma startup',
+      description: 'Aplicativo para uma startup que relaciona empresas com influencers',
       technologies: 'React',
       link: 'https://s3lecto.com',
       github: 'https://github.com/joao-pillon/s3lecto',
@@ -46,7 +46,7 @@ const Portfolio = () => {
       description:
         'Front-End completamente responsivo de uma hamburgueria.',
       technologies: 'JavaScript | React | CSS',
-      link: 'https://github.com/joao-pillon/kenzieburguer',
+      link: 'https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-jpedrofp',
       github: 'https://hamburgueria-jpedrofp.vercel.app/',
     },
     {

@@ -31,8 +31,8 @@ const Intro = () => {
           <p>Eu passei o último ano estudando e realizando projetos com CSS, React, Python e Node 
             trabalhando em cima de tudo entre landing pages, marketplaces, e desenvolvimento de APIs. 
             Estou constantemente aprendendo e desenvolvendo minhas habilidades. 
-            Sou comunicativo e prezo por uma boa relação com as pessoas. Já morei fora, tenho inglês fluente. 
-            Estou acostumado a estar fora da zona de conforto e tenho exímio em ambientes de alta pressão.
+            Sou comunicativo e prezo por uma boa relação com as pessoas. Já morei no exterior e tenho inglês fluente. 
+           Tenho facilidade em lidar com ambientes de alta pressão.
             Procuro deixar uma marca positiva no mundo através da tecnologia.
             </p>
           <a href="#contact" className="btn btn-primary">Entre em contato</a>
