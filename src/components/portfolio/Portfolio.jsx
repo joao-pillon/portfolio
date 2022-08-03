@@ -25,7 +25,7 @@ const Portfolio = () => {
       title: 'Reading Habits',
       img: IMG2,
       description:
-        'Aplicação com intuito de ser utizada como uma ferramente para criar o hábito de leitura e recomendar livros',
+        'Aplicação para criar o hábito da leitura e recomendar livros.',
       technologies: 'React',
       link: 'https://habits-jpedrofp.vercel.app/',
       github: 'https://github.com/joao-pillon/habits',
@@ -34,7 +34,7 @@ const Portfolio = () => {
       id: 3,
       title: 'S3lecto',
       img: IMG3,
-      description: 'Aplicativo para uma startup que relaciona empresas com influencers',
+      description: 'Aplicativo para uma startup que relaciona campanhas de marketing com influencers digitais.',
       technologies: 'React',
       link: 'https://s3lecto.com',
       github: 'https://github.com/joao-pillon/s3lecto',
@@ -44,7 +44,7 @@ const Portfolio = () => {
       title: 'KenzieBurger',
       img: IMG4,
       description:
-        'Front-End completamente responsivo de uma hamburgueria.',
+        'Frontend completamente responsivo de uma hamburgueria.',
       technologies: 'JavaScript | React | CSS',
       link: 'https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-jpedrofp',
       github: 'https://hamburgueria-jpedrofp.vercel.app/',
@@ -64,7 +64,7 @@ const Portfolio = () => {
       title: 'Pitstop',
       img: IMG6,
       description:
-        'Esse é um projeto Back End de um E-commerce, para armazenar produtos e efetuar a compra dos mesmos a partir do carrinho de compra.',
+        'Esse é um projeto Backend de um e-commerce para armazenar produtos e efetuar a compra dos mesmos a partir do carrinho de compra.',
       technologies: 'Django',
       link: 'https://github.com/matheus-araujo-cunha/pit-stop/',
       github: 'https://pitstop-api.herokuapp.com/',
