@@ -30,9 +30,6 @@ const Contact = () => {
   return (
     <section id="contact">
       <h5>Entre em contato</h5>
-      {/* <h5>
-       Eu recebo todos os emails e responderei assim que possível. Sinta-se a vontade para mandar um whats.
-      </h5> */}
       <h2>Contato</h2>
       <div className="container contact__container">
         <div className="contact__options">
